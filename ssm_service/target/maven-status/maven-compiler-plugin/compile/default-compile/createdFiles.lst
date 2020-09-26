@@ -1,0 +1,10 @@
+cn\service\UserService.class
+cn\service\ProductService.class
+cn\service\impl\UserServiceImpl.class
+cn\service\RoleService.class
+cn\service\impl\RoleServiceImpl.class
+cn\service\impl\OrdersServiceImpl.class
+cn\service\OrdersService.class
+cn\service\PermissionService.class
+cn\service\impl\ProductServiceImpl.class
+cn\service\impl\PermissionServiceImpl.class

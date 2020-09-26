@@ -1,0 +1,6 @@
+cn\controller\PermissionController.class
+cn\controller\RoleController.class
+cn\controller\OrdersController.class
+cn\controller\hello.class
+cn\controller\ProductController.class
+cn\controller\UserController.class
